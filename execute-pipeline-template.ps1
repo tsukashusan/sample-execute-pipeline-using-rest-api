@@ -39,7 +39,7 @@ Write-Output ($s | ConvertFrom-Json).value -NoEnumerate
 #type        : DataPipeline
 #displayName : lake2warehouse
 #description : 
-#workspaceId : xxxx
+#workspaceId : ★
 
 $key = "Run-On-Demand-Item-Job"
 $workspaceId = "★"
